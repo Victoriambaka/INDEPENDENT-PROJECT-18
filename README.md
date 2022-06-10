@@ -30,4 +30,4 @@ Part 4: https://rpubs.com/Vikki_mbaka/913219
 
 ## Contributions:
 Note: A person may contribute to this work by hosting the documents on their machine on RStusio, and adding to the code.
-(https://rpubs.com/Vikki_mbaka/913175)
+
